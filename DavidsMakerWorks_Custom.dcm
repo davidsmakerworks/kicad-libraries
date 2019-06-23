@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDT-A512RI
+D 3-digit 7-segment LED display (common anode)
+$ENDCMP
+#
+$CMP LED-RGB-5050
+D LED RGB 6 pins
+K led rgb diode
+$ENDCMP
+#
+#End Doc Library
