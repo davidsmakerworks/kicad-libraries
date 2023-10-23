@@ -298,7 +298,7 @@
     (property "Reference" "D" (at 0 -43.18 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "LDT-A514RI" (at 0 -1.27 0)
+    (property "Value" "LDT-A514RI" (at 0 -1.27 90)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "" (at 0 -10.16 0)
